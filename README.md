@@ -75,3 +75,9 @@ Before running the project, make sure you have the following installed:
 ## Updates - 
     - added User Auth
     - updated Cart and Wishlist
+
+## Docker File Setup
+    - Added DOCKERFILE and docker-compose.yml
+    - To run the Docker
+        docker-compose build up
+        
